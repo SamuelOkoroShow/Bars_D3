@@ -1,0 +1,17 @@
+body
+    {
+      padding: 100px;
+  
+    }
+
+    .bar
+    {
+      display: inline-block;
+    
+    /* Gets overriden by D3-assigned height below */
+ 
+   
+    }
+#chart{
+background-color: beige;
+}
